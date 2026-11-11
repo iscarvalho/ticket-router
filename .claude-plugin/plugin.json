@@ -1,0 +1,11 @@
+{
+    "name": "ticket-router",
+    "version": "0.1.0",
+    "description": "Triages Jira tickets and delegates them to the model and effort level that fit their complexity",
+    "author": {
+      "name": "Ítalo Santiago de Carvalho"
+    },
+    "repository": "https://github.com/iscarvalho/ticket-router",
+    "license": "MIT",
+    "keywords": ["jira", "triage", "model-routing", "subagents"]
+  }

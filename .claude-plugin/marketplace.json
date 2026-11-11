@@ -1,0 +1,14 @@
+{
+    "name": "italo-plugins",
+    "owner": {
+      "name": "Ítalo Santiago de Carvalho"
+    },
+    "plugins": [
+      {
+        "name": "ticket-router",
+        "source": "./",
+        "description": "Triages Jira tickets and delegates them to the model and effort level that fit their complexity",
+        "version": "0.1.0"
+      }
+    ]
+  }
